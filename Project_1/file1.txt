@@ -1,0 +1,3 @@
+git push <remote> <name-of-branch>
+
+git add <file-name OR folder-name>
